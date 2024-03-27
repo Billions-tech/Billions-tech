@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Billions-tech
-- 👀 I’m interested in harnessing technology to its fullest potential
-- 🌱 I’m currently learning new technologies everyday
+- 👋 Hi, Bashir Salisu
+- 🌱 I'm currently working on Web Development
 - 💞️ I’m looking to collaborate on projects, startup and consultations
 - 📫 How to reach me https://wa.link/g7pi1s
 
