@@ -32,8 +32,9 @@ Here's a glimpse of the technologies I work with:
 | 🚀 **Project Name**        | 🌟 **Description**                                   | 🔗 **Link**            |  
 |----------------------------|----------------------------------------------------|------------------------|  
 | **Portfolio Website**      | My personal portfolio showcasing my skills.        | [View Project](#)      |  
+| **Lexra**      | A school management software.        | [View Project](lexrasms.com)      |  
 | **Edo Heritage App**       | Promoting the art, culture, and language of Edo.   | [View Project](#)      |  
-| **Sanitary Cleaning Services** | A website for my pest control agency.          | [View Project](#)      |  
+| **Jio Royal Hotel** | A hotel website for jio royal hotel.          | [View Project](https://www.jioroyalhotel.netlify.app)      |  
 
 Check out my **[repositories](https://github.com/billions-tech)** for more projects!  
 
@@ -41,10 +42,10 @@ Check out my **[repositories](https://github.com/billions-tech)** for more proje
 
 ## **💬 Let's Connect!**  
 
-- **LinkedIn:** [Your LinkedIn](#)  
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/bashir-a-salisu)  
 - **Portfolio:** [Your Website](#)  
 - **Email:** [abubash55@gmail.com](mailto:your.email@example.com)  
-- **Twitter:** [@HeyBashir](#)  
+- **Twitter:** [@HeyBashir](https://x.com/bashirsalisu4)  
 
 I'm always open to collaborations, ideas, or just a friendly chat. Feel free to reach out!  
 
@@ -52,7 +53,7 @@ I'm always open to collaborations, ideas, or just a friendly chat. Feel free to 
 
 ## **🌟 Fun Facts**  
 
-- 🖥️ I've been in tech for over [5] years.  
+- 🖥️ I've been in tech for over 5 years.  
 - 🎯 I thrive on solving challenging problems and building solutions.  
 - 🌍 I'm passionate about using technology to create opportunities for underserved communities.  
 
