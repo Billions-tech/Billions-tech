@@ -42,10 +42,10 @@ Check out my **[repositories](https://github.com/billions-tech)** for more proje
 
 ## **💬 Let's Connect!**  
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/bashir-a-salisu)  
-- **Portfolio:** [Your Website](#)  
-- **Email:** [abubash55@gmail.com](mailto:your.email@example.com)  
-- **Twitter:** [@HeyBashir](https://x.com/bashirsalisu4)  
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/bashir-a-salisu)  
+- **Portfolio:** [My Website](#)  
+- **Email:** [Email](mailto:abubash55@gmail.com)  
+- **Twitter:** [Lets connect on X](https://x.com/bashirsalisu4)  
 
 I'm always open to collaborations, ideas, or just a friendly chat. Feel free to reach out!  
 
