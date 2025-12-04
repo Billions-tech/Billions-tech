@@ -32,7 +32,7 @@ Here's a glimpse of the technologies I work with:
 | 🚀 **Project Name**        | 🌟 **Description**                                   | 🔗 **Link**            |  
 |----------------------------|----------------------------------------------------|------------------------|  
 | **Portfolio Website**      | My personal portfolio showcasing my skills.        | [View Project](#)      |  
-| **Lexra**      | A school management software.        | [View Project](lexrasms.com)      |  
+| **Lexra**      | A school management software.        | [View Project](www.lexrasms.com)      |  
 | **Edo Heritage App**       | Promoting the art, culture, and language of Edo.   | [View Project](#)      |  
 | **Jio Royal Hotel** | A hotel website for jio royal hotel.          | [View Project](https://www.jioroyalhotel.netlify.app)      |  
 
