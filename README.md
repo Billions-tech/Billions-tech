@@ -1,7 +1,7 @@
 
 # **👋 Welcome to My GitHub Profile!**  
 
-Hello there! I'm Bashir A. Salisu, a passionate **developer**, **designer**, and lifelong learner on a journey to create impactful and innovative solutions. This space is where I showcase my projects, share my ideas, and contribute to the tech community.  
+Hello there! I'm Bashir A. Salisu, a passionate **creative**, **developer**, and lifelong learner on a journey to create impactful and innovative solutions. This space is where I showcase my projects, share my ideas, and contribute to the tech community.  
 
 ---
 
@@ -9,7 +9,7 @@ Hello there! I'm Bashir A. Salisu, a passionate **developer**, **designer**, and
 
 - **👨‍💻 Developer:** Skilled in building modern and scalable web and mobile applications.  
 - **🎨 Designer:** Crafting intuitive and aesthetically pleasing user interfaces.  
-- **✍️ Content Creator:** Writing clean, maintainable code and sharing knowledge through blogs.  
+- **✍️ Technical Writer:** Writing clean, maintainable code and sharing knowledge through blogs.  
 - **📈 Lifelong Learner:** Always exploring new technologies and best practices.  
 
 When I'm not coding, you might find me exploring art, diving into books, or brainstorming my next big project.  
@@ -20,10 +20,10 @@ When I'm not coding, you might find me exploring art, diving into books, or brai
 
 Here's a glimpse of the technologies I work with:  
 
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Expo  
+- **Languages:** JavaScript, Typescript, Python, HTML, CSS  
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Expo, Vite 
 - **Tools:** Git, GitHub, VS Code, Figma  
-- **Database:** MongoDB, Firebase, Supabase, Appwrite 
+- **Database:** MongoDB, Firebase, Supabase, Appwrite, Postgressql etc
 
 ---
 
@@ -32,9 +32,11 @@ Here's a glimpse of the technologies I work with:
 | 🚀 **Project Name**        | 🌟 **Description**                                   | 🔗 **Link**            |  
 |----------------------------|----------------------------------------------------|------------------------|  
 | **Portfolio Website**      | My personal portfolio showcasing my skills.        | [View Project](#)      |  
-| **Lexra**      | A school management software.        | [View Project](www.lexrasms.com)      |  
+| **Lexra**      | A school management software.        | [View Project](https://lexrasms.com)      |  
 | **Edo Heritage App**       | Promoting the art, culture, and language of Edo.   | [View Project](#)      |  
-| **Jio Royal Hotel** | A hotel website for jio royal hotel.          | [View Project](https://www.jioroyalhotel.netlify.app)      |  
+| **Jio Royal Hotel** | A hotel website for jio royal hotel.          | [View Project](https://www.jioroyal.netlify.app)      |  
+| **Nexter Homer** | A demo real estate landing page.          | [View Project](https://www.jioroyal.netlify.app)      |  
+| **Getrichr** | An outstanding luxury restaurant website.          | [View Project](https://nexthomer.netlify.app/)      |  
 
 Check out my **[repositories](https://github.com/billions-tech)** for more projects!  
 
