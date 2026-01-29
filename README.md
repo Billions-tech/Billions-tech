@@ -35,8 +35,8 @@ Here's a glimpse of the technologies I work with:
 | **Lexra**      | A school management software.        | [View Project](https://lexrasms.com)      |  
 | **Edo Heritage App**       | Promoting the art, culture, and language of Edo.   | [View Project](#)      |  
 | **Jio Royal Hotel** | A hotel website for jio royal hotel.          | [View Project](https://www.jioroyal.netlify.app)      |  
-| **Nexter Homer** | A demo real estate landing page.          | [View Project](https://www.jioroyal.netlify.app)      |  
-| **Getrichr** | An outstanding luxury restaurant website.          | [View Project](https://nexthomer.netlify.app/)      |  
+| **Nexter Homer** | A demo real estate landing page.          | [View Project](https://www.nexthomer.netlify.app)      |  
+| **Getrichr** | An outstanding luxury restaurant website.          | [View Project](https://getrichr.netlify.app/)      |  
 
 Check out my **[repositories](https://github.com/billions-tech)** for more projects!  
 
